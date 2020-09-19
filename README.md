@@ -1,5 +1,5 @@
-# Perfect-Encrypter-Decrypter
+# Text-Encrypter-Decrypter
 
-### Just run Perfect-Encrypter-Decrypter.exe
+### Just run Text-Encrypter-Decrypter.exe
 
 * Free for use
